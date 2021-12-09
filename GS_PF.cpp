@@ -7,6 +7,7 @@
  * for the heading of the car. 
  *
  * Author: Tiffany Huang
+ * co-Author(Solution): Mwesigwa Musisi-Nkambwe
  */
 
 #include <iostream>
